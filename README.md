@@ -1,4 +1,4 @@
-**Devanagari OCR based on Transfer Learning using Profile Projection Segmentation **
+#Devanagari OCR based on Transfer Learning using Profile Projection Segmentation
 
 Project is divided into two parts one with the backend server and the ai part of the project with model trainings, tests, segmentations and more.
 
