@@ -1,11 +1,11 @@
-###Devanagari OCR based on Transfer Learning using Profile Projection Segmentation 
+**Devanagari OCR based on Transfer Learning using Profile Projection Segmentation **
 
 Project is divided into two parts one with the backend server and the ai part of the project with model trainings, tests, segmentations and more.
 
 to run this project initally open the project in a terminal
 the 
 
-##For server side 
+**For server side** 
 
 #install all the required python libraries using pip or conda
 Flask
@@ -24,7 +24,7 @@ numpy
 python3 app.py
 
 
-##For client side 
+**For client side **
 the application is coded in flutter, so it can be run on a environment with flutter pre installed 
 
 
